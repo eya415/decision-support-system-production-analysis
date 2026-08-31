@@ -101,6 +101,11 @@ The solution includes KPIs such as:
 ### Dashboard Preview
 
 ![Overview Dashboard](screenshots/overview-page.png)
+![Portfolio Growth Dashboard](screenshots/portfolio-growth-page.png)
+![Financial Quality and Performance Dashboard](screenshots/financial-page.png)
+![Portfolio Risk Dashboard](screenshots/portfolio-risk-page.png)
+![Revenue Trend Analysis Dashboard](screenshots/revenue-trend-analysis-page.png)
+![Revenue Forecasting](screenshots/revenue-forecasting-page.png)
 
 ---
 
