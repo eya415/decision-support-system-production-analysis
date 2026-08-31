@@ -100,7 +100,7 @@ The solution includes KPIs such as:
 
 ### Dashboard Preview
 
-> Dashboard screenshots will be added here.
+![Overview Dashboard](screenshots/overview page.png)
 
 ---
 
